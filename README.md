@@ -12,3 +12,6 @@ https://gist.github.com/deepakkapse/ad1b6d9fc96498ca656bbfb563840409
 K8 interview questions
 https://gist.github.com/deepakkapse/13968443d6b324b8e5ca7a05c9f58a6d
 
+CICD_Pipleine_Downtime_handline_tips
+https://gist.github.com/deepakkapse/056c4f36fd0a934fe184565e0a9f367f
+
