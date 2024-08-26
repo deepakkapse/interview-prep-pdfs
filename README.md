@@ -17,3 +17,6 @@ https://gist.github.com/deepakkapse/056c4f36fd0a934fe184565e0a9f367f
 
 What are your weakness
 https://www.linkedin.com/posts/anna-papalia_howtoanswerinterviewquestions-jobinterivew-activity-7232041186427899904-_Ql2?utm_source=share&utm_medium=member_desktop
+
+cicd optimise steps
+https://gist.github.com/deepakkapse/8c59d634141c6922aba5c732e7b3583e
