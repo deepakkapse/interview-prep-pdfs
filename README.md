@@ -23,3 +23,8 @@ https://gist.github.com/deepakkapse/8c59d634141c6922aba5c732e7b3583e
 
 nginx learn in 3 days
 https://gist.github.com/deepakkapse/afde3fd1fbecef29b2e10df443e61e0c
+
+
+GCP
+
+https://gist.github.com/deepakkapse/88a2d699831cbd85e8e806ec4de5cfb9
