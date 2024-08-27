@@ -31,3 +31,6 @@ https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-w
 GCP
 
 https://gist.github.com/deepakkapse/88a2d699831cbd85e8e806ec4de5cfb9
+
+GCP pubsub project
+https://gist.github.com/deepakkapse/a0180e7ca252b67bc47e652526fca0b2
