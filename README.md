@@ -32,6 +32,8 @@ GCP
 
 https://gist.github.com/deepakkapse/88a2d699831cbd85e8e806ec4de5cfb9
 
+https://redhatgov.io/workshops/containers_the_hard_way/
+
 GCP pubsub project
 https://gist.github.com/deepakkapse/a0180e7ca252b67bc47e652526fca0b2
 
