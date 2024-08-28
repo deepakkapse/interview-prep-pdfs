@@ -34,3 +34,6 @@ https://gist.github.com/deepakkapse/88a2d699831cbd85e8e806ec4de5cfb9
 
 GCP pubsub project
 https://gist.github.com/deepakkapse/a0180e7ca252b67bc47e652526fca0b2
+
+Aws costing tips
+https://gist.github.com/deepakkapse/4a0b11d6d2cb822445fc7cc8c1a39295
