@@ -39,3 +39,6 @@ https://gist.github.com/deepakkapse/a0180e7ca252b67bc47e652526fca0b2
 
 Aws costing tips
 https://gist.github.com/deepakkapse/4a0b11d6d2cb822445fc7cc8c1a39295
+
+Project ideas
+https://gist.github.com/deepakkapse/57e56ac5b70dd20003ba3ecf3522cf64
