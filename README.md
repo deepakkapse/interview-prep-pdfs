@@ -42,3 +42,6 @@ https://gist.github.com/deepakkapse/4a0b11d6d2cb822445fc7cc8c1a39295
 
 Project ideas
 https://gist.github.com/deepakkapse/57e56ac5b70dd20003ba3ecf3522cf64
+
+GCP services
+https://gist.github.com/deepakkapse/bafc2ab958018243706ed506ef533cc2
