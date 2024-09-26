@@ -48,3 +48,6 @@ https://gist.github.com/deepakkapse/bafc2ab958018243706ed506ef533cc2
 
 GKE project
 https://gist.github.com/deepakkapse/0a79d1c885355554eaf9e641d3a1ae12
+
+Security measures
+https://gist.github.com/deepakkapse/3ec61d73167af0a945dc188e2d56b4ef
