@@ -51,7 +51,7 @@ EKS
 EKS cluster creation steps: https://gist.github.com/3ab0c8c83f23e7143853c320597fba3b.git
 
 AWS
-Core services setup with secure: https://gist.github.com/deepakkapse/0dfb4556651ad23a022fece6f1c8afc7
+AWS VPC Initial Setup (checklist): https://gist.github.com/deepakkapse/0dfb4556651ad23a022fece6f1c8afc7
 
 GKE project
 https://gist.github.com/deepakkapse/0a79d1c885355554eaf9e641d3a1ae12
