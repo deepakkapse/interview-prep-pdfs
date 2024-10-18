@@ -52,6 +52,7 @@ EKS cluster creation steps: https://gist.github.com/3ab0c8c83f23e7143853c320597f
 
 AWS
 AWS VPC Initial Setup (checklist): https://gist.github.com/deepakkapse/0dfb4556651ad23a022fece6f1c8afc7
+vpc endpoint types: https://gist.github.com/deepakkapse/51caa0a41c790a7e45997ac667be93e6
 
 GKE project
 https://gist.github.com/deepakkapse/0a79d1c885355554eaf9e641d3a1ae12
